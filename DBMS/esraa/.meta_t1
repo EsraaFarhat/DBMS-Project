@@ -1,0 +1,6 @@
+t1,4
+ID,int
+name,string
+email,mix
+25,int
+0
